@@ -1,0 +1,4 @@
+parameterized==0.7.0
+pycairo==1.18.0
+PyGObject==3.30.4
+terminator==1.91
